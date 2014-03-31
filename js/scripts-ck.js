@@ -1,0 +1,1 @@
+(function(e,t){t.behaviors.basis={attach:function(e,t){}}})(jQuery,Drupal);

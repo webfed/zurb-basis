@@ -1,0 +1,21 @@
+// Non-modular or client styles for .l-header region.
+
+.l-header {}
+
+.balk {background-image: url(../images/bg-balk.png);
+		background-repeat: repeat-x;
+		max-height: 100px;
+		}
+.logo
+	{
+	margin-left: 20px;
+	}
+// Top Bar
+//--------------------------------------------------
+.top-bar {
+  .title-area {}
+}
+
+.top-bar-section {}
+.top-bar-section .left {}
+.top-bar-section .right {}
