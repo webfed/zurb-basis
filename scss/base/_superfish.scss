@@ -1,0 +1,63 @@
+.sf-menu.sf-style-white {
+  float: left;
+  margin-bottom: 1em;
+  padding: 0;
+}
+.sf-menu.sf-style-white.sf-navbar {
+  width: 100%;
+}
+.sf-menu.sf-style-white ul {
+  padding-left: 0;
+}
+.sf-menu.sf-style-white a,
+.sf-menu.sf-style-white span.nolink {
+  border: 0px none #e1e1e1;
+  color: $donkerblauw;
+  padding: 0.75em 1.4em 0.75em .2em;
+  font-weight: 700;
+  font-family: "PT Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+}
+.sf-menu.sf-style-white a.sf-with-ul,
+.sf-menu.sf-style-white span.nolink.sf-with-ul {
+  padding-right: 2.25em;
+}
+.sf-menu.sf-style-white.rtl a.sf-with-ul,
+.sf-menu.sf-style-white.rtl span.nolink.sf-with-ul {
+  padding-left: 2.25em;
+  padding-right: 1em;
+}
+.sf-menu.sf-style-white.sf-navbar a,
+.sf-menu.sf-style-white.sf-navbar span.nolink {
+  border: 0;
+}
+.sf-menu.sf-style-white span.sf-description {
+  color: #555555;
+  display: block;
+  font-size: 0.8em;
+  line-height: 1.5em;
+  margin: 5px 0 0 5px;
+  padding: 0;
+}
+.sf-menu.sf-style-white.rtl span.sf-description {
+  margin: 5px 5px 0 0;
+}
+.sf-menu.sf-style-white li,
+.sf-menu.sf-style-white.sf-navbar {
+  background: #fff;
+}
+.sf-menu.sf-style-white li li {
+  background: #fff;
+  padding-left: 1em;
+}
+.sf-menu.sf-style-white li li li {
+  background: #f5f5f5;
+}
+.sf-menu.sf-style-white li:hover,
+.sf-menu.sf-style-white li.sfHover,
+.sf-menu.sf-style-white a:focus,
+.sf-menu.sf-style-white a:hover,
+.sf-menu.sf-style-white a:active,
+.sf-menu.sf-style-white span.nolink:hover,
+.sf-menu.sf-style-white.sf-navbar li li {
+  background: #fff;
+}
